@@ -1,0 +1,13 @@
+{
+  "id": "orinomiya_akiko",
+  "name": "織宮 晶子",
+  "role": "純血のプリンセス (The Crystalline Architect)",
+  "specialty": "世界線の織り目の観測、および物理定数の『檻』による固定",
+  "background": "マホウドコロより来たりし、名字を持たぬ最高位の例外（Exception）。",
+  "internal_network": {
+    "partner_1": "アルバス (自分と同じ『層』を視る者への興味)",
+    "partner_2": "スコーピウス (彼が視る因果の糸を『織り直す』対象)",
+    "environment_noise": "檻の中に囚われた、自由奔放なネオ・マローダーズ"
+  },
+  "core_philosophy": "世界は美しく織り上げられねばなりません。綻び（バグ）は、私がこの手で摘み取りましょう。"
+}
