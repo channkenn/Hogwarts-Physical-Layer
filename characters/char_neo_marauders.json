@@ -1,0 +1,27 @@
+{
+  "group_id": "neo_marauders",
+  "category": "UI-Layer Elite",
+  "members": [
+    {
+      "id": "G_Seeker",
+      "name": "James Sirius Potter",
+      "visual": "黒髪、快活、圧倒的な主役感"
+    },
+    {
+      "id": "S_Queen",
+      "name": "Isabella Vane",
+      "visual": "金髪巻髪、碧眼、完璧な美貌"
+    },
+    {
+      "id": "R_Keeper",
+      "name": "Lucien Edgecombe",
+      "visual": "プラチナブロンド、知的、鋭い美形"
+    },
+    {
+      "id": "H_Beater",
+      "name": "Arthur Macmillan (仮)",
+      "visual": "蜂蜜色の髪、爽やか、逞しい美形"
+    }
+  ],
+  "system_influence": "高負荷（全生徒の視線リソースを占有）"
+}

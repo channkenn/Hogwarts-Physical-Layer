@@ -1,0 +1,13 @@
+{
+  "id": "owen_diggory",
+  "name": "オーウェン・デグリー",
+  "role": "UI層の安定化装置 (The Stabilizer)",
+  "specialty": "圧倒的質量による存在感の固定、および衝突の緩衝",
+  "background": "ハッフルパフの良心を『頼れる美形』という強固なUIとして出力し、チームを接地させている",
+  "internal_network": {
+    "partner_1": "ジェームズ・シリウス・ポッター (熱源)",
+    "partner_2": "イザベラ・ヴェイン (秩序)",
+    "environment_noise": "図書室で囁かれる数式"
+  },
+  "core_philosophy": "みんなが笑っているなら、それが一番安定した状態だ。そのためなら、僕はどんな壁にだってなってみせるよ。"
+}

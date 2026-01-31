@@ -1,0 +1,11 @@
+{
+  "id": "scorpius_malfoy",
+  "name": "スコーピウス・マルフォイ",
+  "role": "",
+  "specialty": "歴史的データの解析と物理的整合性の確認",
+  "internal_network": {
+    "albus": "共鳴者",
+    "cattleya": "演算の要"
+  },
+  "notes": ""
+}
