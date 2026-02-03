@@ -22,7 +22,7 @@
 
 ## 外部干渉 / 特異点
 
-- [織宮晶子](./char_orinomiya_akiko.json) : 物理定数の織り直し (The Crystalline)
+- [織宮晶子](./char_orinomiya_akiko.json) : 純血のプリンセス。世界ランタイム管理者権限持ち (The Crystalline)
 - [フィレンツェ](./char_firenze.json) : ケンタウルス。星々の運行（Rawデータ）から世界の記述を読み解く、アルバスたちの協力者。
 - [リリー・ルーナ・ポッター](./char_lili_luna_potter.json) : 時期女王候補
 - [ヘレナ・ベルビー](./char_helena.json) : 元ミスレイブンクロー。レイブンクロー窓口
